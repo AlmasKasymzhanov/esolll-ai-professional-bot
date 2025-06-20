@@ -2617,7 +2617,7 @@ async def start_esolll_ai_professional():
     """🚀 ЗАПУСК ESOLLL AI PROFESSIONAL ANALYTICS ENGINE ДЛЯ RAILWAY"""
     telegram_token = os.getenv("TELEGRAM_TOKEN", "7379556579:AAHXWwnYjcJpvTvN83nAUs04uHAykoQv-YM")
     mpstats_api_key = os.getenv("MPSTATS_API_KEY", "68528ad55e29e6.1236050249227088a63f52d8d31984bc88a498c4")
-    anthropic_api_key = os.getenv("ANTHROPIC_API_KEY", "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")
+    anthropic_api_key = os.getenv("ANTHROPIC_API_KEY", "your-anthropic-key-here")
     
     print("🤖 ESOLLL AI PROFESSIONAL ANALYTICS ENGINE")
     print("=" * 80)
