@@ -1,0 +1,2 @@
+aiohttp==3.9.1
+nest-asyncio==1.5.8
